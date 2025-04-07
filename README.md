@@ -1,4 +1,4 @@
-# 🚢 batalha-naval-simples
+# 🚢 Batalha-Naval-Simples
 ---
 Trabalho do início da faculdade, onde tínhamos que fazer um jogo de batalha naval usando matrizes em C++. Certamente cheio de redundância e bem extenso, mas fizemos o nosso melhor naquela época
 <h2>Regras:</h2>
