@@ -10,4 +10,4 @@ Vence aquele que tiver mais pontos quando não houver mais navios para serem afu
 <br/><br/>
 <p>Dificuldades</p>
 <p>Básico: tabuleiro apenas com frotas a serem afundadas</p>
-<p>Avançado: tabuleiro com bombas também presentes que, se atingidas, o jogador perde 5 pontos</p>
+<p>Avançado: tabuleiro com bombas também presentes que, se atingidas, fazem com que o jogador perca 5 pontos</p>
